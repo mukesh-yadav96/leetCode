@@ -1,0 +1,16 @@
+Input: "ofrsgkeeeekgs"
+Output: geeksforgeeks
+
+Input: str = "bbaa"
+Output: abba
+
+fun decodeStr(str : String) : String {
+    var ans = ""
+    str.forEachIndexed { i, c ->
+        if(i%2!=0)
+            ans = c+ans
+        else
+            ans += c
+    }
+    return ans
+}
