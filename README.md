@@ -30,8 +30,18 @@ These solutions not only showcase my technical acumen but also reflect my unwave
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mukesh-yadav96/leetCode/tree/main/0001-two-sum/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukesh-yadav96/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mukesh-yadav96/leetCode/tree/main/0001-two-sum/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukesh-yadav96/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukesh-yadav96/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mukesh-yadav96/leetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
