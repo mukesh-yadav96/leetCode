@@ -23,3 +23,15 @@ Join me in this exhilarating pursuit of excellence, where each problem conquered
 ---
 
 These solutions not only showcase my technical acumen but also reflect my unwavering dedication to the art of programming. Let's continue this extraordinary journey, where challenges are opportunities and every line of code is a stroke of brilliance! 💻🌟
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/mukesh-yadav96/leetCode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/mukesh-yadav96/leetCode/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
